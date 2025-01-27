@@ -126,7 +126,7 @@ For any questions or feedback, feel free to reach out:
 
 - **Email**: priyansh.awasthi@hotmail.com
 - **GitHub**: [Priyansh-013](https://github.com/Priyansh-013)
-- **LinkedIn**: [Priyansh Awasthi](www.linkedin.com/in/priyansh-awasthi-29113b251)
+- **LinkedIn**: [Priyansh Awasthi](https://www.linkedin.com/in/priyansh-awasthi-29113b251/)
 
 ---
 
