@@ -7,7 +7,6 @@ This is a Shiny web application for visualizing and analyzing the well-known **I
 ---
 
 
----
 
 ## Demo Video
 
